@@ -1,0 +1,26 @@
+{
+  "name": "design-of-smart-mirror",
+  "version": "0.1.0",
+  "description": "Design ========",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mr-dxdy/smart-mirror.git"
+  },
+  "author": "German Antsiferov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mr-dxdy/smart-mirror/issues"
+  },
+  "homepage": "https://github.com/mr-dxdy/smart-mirror#readme",
+  "devDependencies": {
+    "css-loader": "^0.28.8",
+    "style-loader": "^0.19.1",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.11.0"
+  }
+}
